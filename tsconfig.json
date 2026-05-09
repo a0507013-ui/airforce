@@ -1,7 +1,7 @@
 {
   // Visit https://aka.ms/tsconfig to read more about this file
   "compilerOptions": {
-    "lib": ["ES2015","DOM"],
+    "lib": ["ES2015","DOM", "ES2022"],
     "target":"ES5",
     "lib": [
       "DOM",

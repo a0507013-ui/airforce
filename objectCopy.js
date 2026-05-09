@@ -9,4 +9,4 @@ console.log(ob1);
 //ob2를 변경합니다.
 ob2.name = "typescript";
 console.log(ob1);
-//# sourceMappingURL=objectcopy.js.map
+//# sourceMappingURL=objectCopy.js.map
