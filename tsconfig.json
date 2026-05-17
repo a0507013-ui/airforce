@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "lib": [
+      "DOM",
+      "ES2015",
+      "ES2016",
+      "ESNext"
+    ],
+    "noImplicitAny": false,
+    "strict": false
+  },
+  "include": ["/**/*.ts"],
+  "exclude": [
+    "node_modules",
+    "/**/*.spec.ts"
+  ]
+}
