@@ -23,16 +23,28 @@ console.log({
     [generateProperty("typescript")]: "hello world",
 });
 */
-const publisher = "jpub";
+/* const publisher = "jpub";
 const year = 2024;
+
 //key와 value의 이름이 같을 때
+
 console.log({
-    publisher: publisher,
-    year: year,
+    publisher:publisher,
+    year:year,
 });
+
 //생략이 가능합니다.
 console.log({
     publisher,
     year,
+});
+*/
+const user = {
+    name: "foo",
+    address: "bar",
+};
+// {user:user}와 같음
+console.log({
+    user,
 });
 //# sourceMappingURL=object_literals.js.map
